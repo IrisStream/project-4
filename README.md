@@ -1,5 +1,4 @@
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/irisstream-udacity/project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/irisstream-udacity/project-4/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/IrisStream/project-4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/IrisStream/project-4/tree/main)
 
 ## Project Overview
 

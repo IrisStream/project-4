@@ -7,3 +7,5 @@ NAME                  READY   STATUS    RESTARTS   AGE
 udacity-project-pod   1/1     Running   0          10s
 Forwarding from 0.0.0.0:8000 -> 80
 Handling connection for 8000
+INFO:flask.app:Prediction: 
+{[20.35373177134412]}
