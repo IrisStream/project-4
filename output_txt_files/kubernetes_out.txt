@@ -1,0 +1,9 @@
+pod/udacity-project-pod created
+NAME                  READY   STATUS              RESTARTS   AGE
+udacity-project-pod   0/1     ContainerCreating   0          0s
+waiting for pod to be ready
+pod is ready
+NAME                  READY   STATUS    RESTARTS   AGE
+udacity-project-pod   1/1     Running   0          10s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
